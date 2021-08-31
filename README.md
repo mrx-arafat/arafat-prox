@@ -1,1 +1,1 @@
-# arafat-mist.github.io
+# arafatx.me
