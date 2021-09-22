@@ -1,6 +1,8 @@
 /* common styles */
 
 .container {
+  display: flex;
+  flex-direction: column;
   width: 800px;
   margin: 45px auto;
 }
@@ -8,6 +10,7 @@
 .cat {
   width: 270px;
   float: left;
+  margin: 90px auto;
 }
 
 /* cat head */
@@ -428,4 +431,14 @@
 
 .cat-tail:after {
   animation: cat-tail 0.2s linear 5.2s 4 alternate;
+}
+/* arafat image */
+
+.arafat-img {
+  margin-left: 100px;
+}
+.xd {
+  font-size: 200px;
+  font-weight: 600;
+  margin-left: 10px;
 }
